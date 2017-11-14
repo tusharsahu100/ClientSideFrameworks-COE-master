@@ -1,0 +1,1 @@
+{"version":3,"file":"http-response.model.js","sourceRoot":"","sources":["http-response.model.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,uDAI4B;AAE5B;IAAkC,gCAAS;IAEvC,sBAAY,EAAa,EAAE,oBAA0C,EAAC,GAAgB,EAAE,KAAkB;QAApC,oBAAA,EAAA,QAAgB;QAAE,sBAAA,EAAA,UAAkB;eACtG,kBAAM,EAAE,EAAE,oBAAoB,EAAC,GAAG,EAAE,KAAK,CAAC;IAC9C,CAAC;IAEL,mBAAC;AAAD,CAAC,AAND,CAAkC,4BAAS,GAM1C;AANY,oCAAY"}
